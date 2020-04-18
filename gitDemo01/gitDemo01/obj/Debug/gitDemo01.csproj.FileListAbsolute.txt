@@ -1,0 +1,10 @@
+C:\Users\Michael Alyssa\Documents\CIS 234A Real-World Programming\234A_Project 1_FoodPantryNotificationSystem\GIT\demo01\gitDemo01\gitDemo01\bin\Debug\gitDemo01.exe.config
+C:\Users\Michael Alyssa\Documents\CIS 234A Real-World Programming\234A_Project 1_FoodPantryNotificationSystem\GIT\demo01\gitDemo01\gitDemo01\bin\Debug\gitDemo01.exe
+C:\Users\Michael Alyssa\Documents\CIS 234A Real-World Programming\234A_Project 1_FoodPantryNotificationSystem\GIT\demo01\gitDemo01\gitDemo01\bin\Debug\gitDemo01.pdb
+C:\Users\Michael Alyssa\Documents\CIS 234A Real-World Programming\234A_Project 1_FoodPantryNotificationSystem\GIT\demo01\gitDemo01\gitDemo01\obj\Debug\gitDemo01.csprojAssemblyReference.cache
+C:\Users\Michael Alyssa\Documents\CIS 234A Real-World Programming\234A_Project 1_FoodPantryNotificationSystem\GIT\demo01\gitDemo01\gitDemo01\obj\Debug\gitDemo01.Form1.resources
+C:\Users\Michael Alyssa\Documents\CIS 234A Real-World Programming\234A_Project 1_FoodPantryNotificationSystem\GIT\demo01\gitDemo01\gitDemo01\obj\Debug\gitDemo01.Properties.Resources.resources
+C:\Users\Michael Alyssa\Documents\CIS 234A Real-World Programming\234A_Project 1_FoodPantryNotificationSystem\GIT\demo01\gitDemo01\gitDemo01\obj\Debug\gitDemo01.csproj.GenerateResource.cache
+C:\Users\Michael Alyssa\Documents\CIS 234A Real-World Programming\234A_Project 1_FoodPantryNotificationSystem\GIT\demo01\gitDemo01\gitDemo01\obj\Debug\gitDemo01.csproj.CoreCompileInputs.cache
+C:\Users\Michael Alyssa\Documents\CIS 234A Real-World Programming\234A_Project 1_FoodPantryNotificationSystem\GIT\demo01\gitDemo01\gitDemo01\obj\Debug\gitDemo01.exe
+C:\Users\Michael Alyssa\Documents\CIS 234A Real-World Programming\234A_Project 1_FoodPantryNotificationSystem\GIT\demo01\gitDemo01\gitDemo01\obj\Debug\gitDemo01.pdb
