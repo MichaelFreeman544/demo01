@@ -16,5 +16,18 @@ namespace gitDemo01
         {
             InitializeComponent();
         }
+
+        private void Testbutton1_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                MessageBox.Show("New Message");
+            }
+            catch 
+            {
+                MessageBox.Show("error");
+            }
+
+        }
     }
 }
